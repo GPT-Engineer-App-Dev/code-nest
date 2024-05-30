@@ -10,7 +10,7 @@ const Index = () => {
         <Box boxSize="sm" mt={6}>
           <Image src="/images/learning-platform.png" alt="Learning Platform" />
         </Box>
-        <Button as={Link} to="/courses" colorScheme="teal" size="lg" mt={6}>Explore Courses</Button>
+        <Button as={Link} to="/code-editor" colorScheme="teal" size="lg" mt={6}>Open Code Editor</Button>
       </VStack>
     </Container>
   );
